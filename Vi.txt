@@ -1,0 +1,32 @@
+
+ABOUT ME PAGE
+
+An experienced Software Engineering Professional specializing in financial industries such as commercial papers and income tax software. My strengths include an excellent work ethic as well as multiple skills in programing and income tax. Also known to be a very hard worker who enjoys a challenge when given the opportunity.
+
+Thank You for visiting my portfolio. I hope you can find my projects are useful and I'm open to any suggestions to improve them!
+
+
+RESUME PAGE
+
+Resume
+				
+I recently graduated from the General Assembly's Software Engineering Immersive (SEI) Program cohort sponsored by Synchrony where I have learned programming languages to work as an <b>awesome</b> Full Stack Developer.
+		
+Relevant Experience
+		
+H&R Block, Oct 2019 - present
+    Prepare complete and accurate individual and small business tax returns.
+    Assist other tax-pros on system and tax related issues.
+VITA-AARP Foundation Tax Aide, Oct 2018 - present
+    Prepare complete and accurate individual tax returns in person and online
+SUNGARD, Java Software Engineer 11/00-10/06
+    Designed web-based modules and classes for trading Commercial Paper, Certified Deposit, Money Fund using Java as front end and Oracle as back end.
+GELCO INFO NETWORK, Java Software Engineer 01/98-11/00
+    Developed, supported and enhanced GUI administrative tools using J2EE.
+
+
+Education
+		
+General Assembly, Software Engineering Immersive
+Iona University, M.S in Computer Science
+Carleton University, Bachor in Management Information System 
